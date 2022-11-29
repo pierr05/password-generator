@@ -12,6 +12,8 @@ N/A
 
 To use this application, follow the deployment link below to open it in your window browser. After the page is loaded, click the "Generate Password" button to select which criteria you want to include.
 
+Deployment Link: https://pierr05.github.io/password-generator/
+
 Password Generator demo: 
 
 ![Screenshot of the Password Generator Webpage.](./img/password-generator-demo.png)
