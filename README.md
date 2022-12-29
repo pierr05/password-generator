@@ -16,7 +16,7 @@ Deployment Link: https://pierr05.github.io/password-generator/
 
 Password Generator demo: 
 
-![Screenshot of the Password Generator Webpage.](./img/password-generator-demo.png)
+![Screenshot of the Password Generator Webpage.](.//assets/img/password-generator-demo.png)
 
 ## Credits 
 
